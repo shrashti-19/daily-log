@@ -1,0 +1,5 @@
+## Internship Project
+1. Integrated frontend with backend.
+2. Eliminated the errors occuring while integration (error was dashboard.jsx was a empty file and was directly imported to 
+                                                     app.jsx).
+                                                     
